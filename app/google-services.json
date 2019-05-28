@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721621681595",
+    "firebase_url": "https://fir-cloudmessagingtest-1e82d.firebaseio.com",
+    "project_id": "fir-cloudmessagingtest-1e82d",
+    "storage_bucket": "fir-cloudmessagingtest-1e82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721621681595:android:601a14f4a3a78120",
+        "android_client_info": {
+          "package_name": "cat.tecnocampus.mobileapps.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721621681595-e37khqbn9k5fldtd3q962t2m19fqq4r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cat.tecnocampus.mobileapps.androidfirebase",
+            "certificate_hash": "004d3461ec2ffb217c3fa3a1a01ef52a82a32450"
+          }
+        },
+        {
+          "client_id": "721621681595-d6lk912jg7m7ffh26us5tsgjsgbcjjlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpnxjQR3jP4tBNFk6JMjX8puiKQkD97I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721621681595-d6lk912jg7m7ffh26us5tsgjsgbcjjlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
